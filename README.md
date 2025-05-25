@@ -70,4 +70,4 @@ Cloudflare will automatically handle the DNS configuration, but make sure the re
 ## Conclusion
 You’ve successfully set up your domain with Cloudflare and deployed your website. Your site should now be live and accessible from both website.com and www.website.com.
 
-I wrote this guide based on my experience setting up domains for [mvpbuilderhub.live](https://www.mvpbuilderhub.live) [excelaibot.pro](https://www.excelaibot.pro) and a few more websites.
+I wrote this guide based on my experience setting up domains for [leedlime.com](https://leedlime.com/?ref=GitHub) [excelaibot.pro](https://www.excelaibot.pro) and a few more websites.
